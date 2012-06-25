@@ -1,0 +1,62 @@
+name = Open Source Summit
+description = Setup for experimenting with application building with Drupal, same as standard install plus typical application building modules
+core = 7.x
+
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+; rules
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = rules
+dependencies[] = rules_admin
+; eck
+dependencies[] = ctools
+dependencies[] = eck
+; entityreference
+dependencies[] = entityreference
+; node_reference
+dependencies[] = references
+dependencies[] = node_reference
+; views
+dependencies[] = views
+dependencies[] = views_ui
+; context
+dependencies[] = context
+dependencies[] = context_ui
+; date
+dependencies[] = date
+dependencies[] = date_views
+; date_popup
+dependencies[] = date_api
+dependencies[] = date_popup
+; relation
+dependencies[] = relation
+dependencies[] = relation_add
+dependencies[] = relation_endpoint
+dependencies[] = relation_entity_collector
+; panels
+dependencies[] = panels
+dependencies[] = panels_ipe
+dependencies[] = panels_mini
+dependencies[] = page_manager
+; ctools
+dependencies[] = ctools_custom_content

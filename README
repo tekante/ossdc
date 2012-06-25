@@ -1,0 +1,7 @@
+This repo is a quick start for experimenting with building business applications
+with Drupal prepared originally for the OSSDC conference. It is composed of a
+Drush make file and installation profile directory.
+
+build.sh can be examined for a typical build process and linking of the profile.
+Once the system is built install the OSSDC profile using the standard Drupal
+install process.
